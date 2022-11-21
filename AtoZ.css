@@ -1,0 +1,149 @@
+body{
+  background-color:rgb(228, 222, 222);
+}
+
+.jumbotron {
+  padding: 2rem 1rem;
+  margin-bottom: 2rem;
+  background-color: #e9ecef;
+  border-radius: 0.3rem;
+}
+*, ::after, ::before {
+  box-sizing: border-box;
+}
+user agent stylesheet
+div {
+  display: block;
+}
+.row {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: -5px;
+  margin-left: -5px;
+}
+*, ::after, ::before {
+  box-sizing: border-box;
+}
+.welcome{
+  height:1px;
+  color:dodgerblue;
+  width: 260px;
+}
+@media (max-width: 576px) { 
+.fs-2 bg-sucesfa-spin text-success{
+  font-size:10px;
+}
+
+}
+  #head{
+   background-color: rgb(235, 240, 245);
+   
+
+  }
+
+.bi bi-file-bar-graph{
+  background-color: blue;
+}
+.i bi-instagram{
+  color: red;
+}
+.col a{
+  text-decoration: none;
+}
+.row>* {
+  flex-shrink: 0;
+  width: 100%;
+  max-width: 100%;
+  padding-right: calc(var(--bs-gutter-x) * .5);
+  padding-left: calc(var(--bs-gutter-x) * .5);
+  margin-top: var(--bs-gutter-y);
+ 
+}
+*, ::after, ::before {
+  box-sizing: border-box;
+}
+user agent stylesheet
+div {
+  display: block;
+}
+.g-5, .gy-5 {
+  --bs-gutter-y: 3rem;
+}
+.g-5, .gx-5 {
+  --bs-gutter-x: 3rem;
+}
+.row {
+  --bs-gutter-x: 1.5rem;
+  --bs-gutter-y: 0;
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: calc(-1 * var(--bs-gutter-y));
+  margin-right: calc(-.5 * var(--bs-gutter-x));
+  margin-left: calc(-.5 * var(--bs-gutter-x));
+}
+#aboutus{
+  color: dodgerblue;
+  font-weight: lighter;
+  font-family: 'Times New Roman', Times, serif;
+ 
+}
+#basicinfo{
+  color: dodgerblue;
+  font-weight: lighter;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+#aman{
+  color: dodgerblue;
+  font-weight: lighter;
+  font-family: 'Times New Roman', Times, serif;
+ 
+  font-weight: bold;
+  font-size: 30px;
+}
+#founder{
+  font-weight: lighter;
+  font-size:15px;
+  color: rgb(129, 127, 127);
+}
+#mates{
+  font-weight: lighter;
+  font-size:5px;
+  color: rgb(41, 39, 39);
+font-family: 'Times New Roman', Times, serif;
+  font-size: 50px;
+}
+.hr{
+  color: dodgerblue;
+  
+
+}
+@media screen and (max-width:543px) {
+ #mates {
+  font-size: 30px;
+ }
+  
+}
+@media screen and (max-width:543px) {
+  .row {
+   float: left;
+   display: block;
+  }
+   
+ }
+.bio{
+  font-style: normal;
+  font-size: 15px;
+ font-variant: inherit;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ color: rgb(71, 67, 67);
+ font-weight: light;
+}
+#call{
+  color:#1180FF;
+  text-decoration: none;
+  
+}
