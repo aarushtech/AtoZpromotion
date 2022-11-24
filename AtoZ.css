@@ -42,14 +42,6 @@ div {
    background-color: rgb(235, 240, 245);
   }
 
-img.rounded mx-auto d-block img-fluid{
-
- position: -webkit-sticky;
-  position: sticky;
-  top: 0;
-  width: 200px;
-
-}
 .bi bi-file-bar-graph{
   background-color: blue;
 }
