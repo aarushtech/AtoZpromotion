@@ -42,7 +42,7 @@ div {
    background-color: rgb(235, 240, 245);
   }
 
-.rounded mx-auto d-block img-fluid{
+img.rounded mx-auto d-block img-fluid{
 
  position: -webkit-sticky;
   position: sticky;
