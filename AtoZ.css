@@ -40,11 +40,7 @@ div {
 }
   #head{
    background-color: rgb(235, 240, 245);
-  overflow: hidden;
-  background-color: #333;
-  position: fixed;
-  top: 0;
-  width: 100%;
+ 
 
 
   }
